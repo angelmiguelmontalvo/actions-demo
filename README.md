@@ -1,6 +1,6 @@
 # AWS cloud9 CI CD demo
 
-https://youtu.be/1UQVjmfS3Yk
+[demo video](https://youtu.be/1UQVjmfS3Yk)
 
 Source:
 
